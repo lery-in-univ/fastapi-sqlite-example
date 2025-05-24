@@ -11,6 +11,7 @@
 ```shell
 git clone https://github.com/lery-in-univ/fastapi-sqlite-example.git
 uv sync
+sh ./scripts/create_empty_db.sh
 ```
 
 ## Run
